@@ -1,0 +1,6 @@
+# python venv
+**/venv
+
+# files not needed
+**/.DS_Store
+
